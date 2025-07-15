@@ -6,7 +6,7 @@ from pathlib import Path
 from sklearn.metrics import classification_report, confusion_matrix
 
 # === CONFIG ===
-INPUT_PATH = Path("/Users/sheillaschool/Documents/final/Thesis_PredictingNewsOutdatedness_Logistic_Decay/model/finetune/seed_dataset/data/rule_based_review.json")
+INPUT_PATH = Path("/Users/sheillaschool/Documents/final/Thesis_PredictingNewsOutdatedness_Logistic_Decay/model/labelling/data/rulebased_review.json")
 API_KEY_FILE = Path("wandb-api-key.txt")
 CSV_OUTPUT_PATH = Path("./validation_metrics.csv")
 CONF_MATRIX_CSV = Path("./confusion_matrix.csv")

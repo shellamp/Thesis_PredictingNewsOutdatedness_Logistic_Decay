@@ -5,7 +5,7 @@ from pathlib import Path
 
 # === CONFIG ===
 INPUT_PATH = Path("/Users/sheillaschool/Documents/final/Thesis_PredictingNewsOutdatedness_Logistic_Decay/data/main_data/finetuning/unlabeled_finetuning.json")
-OUTPUT_PATH = Path("/Users/sheillaschool/Documents/final/Thesis_PredictingNewsOutdatedness_Logistic_Decay/model/finetune/seed_dataset/rulebased.json")
+OUTPUT_PATH = Path("/Users/sheillaschool/Documents/final/Thesis_PredictingNewsOutdatedness_Logistic_Decay/model/labelling/data/rulebased.json")
 
 # === LOAD SPACY ===
 nlp = spacy.load("en_core_web_sm")
