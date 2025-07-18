@@ -14,6 +14,8 @@ Local Machine: Used for the initial stages, including dataset generation and dat
 
 Google Colab: Used for a more intensive tasks such as: BERT fine-tuning, Hyperparameter tuning, Prediction, Fitting to the decay function
 
+Google Colab link : https://colab.research.google.com/drive/1rvLZx0juIHmWJFmw3-JfigDBMn97sSXU?usp=sharing
+
 # Repository structure
 
 
