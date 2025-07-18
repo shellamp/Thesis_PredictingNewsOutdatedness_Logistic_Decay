@@ -19,6 +19,9 @@ Google Colab: Used for a more intensive tasks such as: BERT fine-tuning, Hyperpa
 
 # Training results
 Rule-Based Validation: https://wandb.ai/spurwand-hwr-berlin/thesis_news_outdatedness_validation_rulebased?nw=nwuserspurwand
+
 Hyperparam Tuning: https://wandb.ai/spurwand-hwr-berlin/thesis_finetune_bert_optuna_tuning_tpe?nw=nwuserspurwand
+
 Model with best hyperparam: https://wandb.ai/spurwand-hwr-berlin/thesis_finetune_bert_optuna_bestparam?nw=nwuserspurwand
+
 Decay function: https://wandb.ai/spurwand-hwr-berlin/thesis_decay_fit_evaluation_bestparam
