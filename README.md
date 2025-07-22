@@ -4,7 +4,7 @@ This repository contains the complete implementation and documentation for my ma
 
 The research question is “How can a probabilistic model to predict the outdatedness of a news data using logistic decay model be developed?”
 
-The results can be found on W&B (see results at the bottom of README) and the thesis can be found in docs (see repository structure).
+The results can be found on W&B (see results at the bottom of README) and the thesis can be found in docs.
 
 # Script usage:
 
@@ -16,17 +16,17 @@ Google Colab: Used for a more intensive tasks such as: BERT fine-tuning, Hyperpa
 
 Google Colab link : https://colab.research.google.com/drive/1rvLZx0juIHmWJFmw3-JfigDBMn97sSXU?usp=sharing
 
-# Repository structure
-
-
 # Training results
 Rule-Based Validation: https://wandb.ai/spurwand-hwr-berlin/thesis_news_outdatedness_validation_rulebased?nw=nwuserspurwand
+
+Manual-based validation : Inside the 
 
 Hyperparam Tuning: https://wandb.ai/spurwand-hwr-berlin/thesis_finetune_bert_optuna_tuning_tpe?nw=nwuserspurwand
 
 Model with best hyperparam: https://wandb.ai/spurwand-hwr-berlin/thesis_finetune_bert_optuna_bestparam?nw=nwuserspurwand
 
 Decay function: https://wandb.ai/spurwand-hwr-berlin/thesis_decay_fit_evaluation_bestparam
+
 
 # Disclaimer
 
